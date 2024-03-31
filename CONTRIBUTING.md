@@ -11,7 +11,7 @@ Tujuan kami adalah mengumpulkan sumber belajar yang sesuai dengan kebutuhan #Pap
 
 ## Panduan
 
-1. `Siapapun dapat berkontribusi:` Kontribusi dipersilakan. Anda bisa membuat perubahan, menambahkan sumber baru, atau mengusulkan perbaikan melalui pull request (PR).
+1. `Siapapun dapat berkontribusi:` Anda bisa membuat perubahan, menambahkan sumber baru, atau mengusulkan perbaikan melalui pull request (PR).
 2. `Menjaga Urutan Alfabetis:` Pastikan urutan alfabetis dalam Daftar Isi untuk memudahkan navigasi setiap topik.
 3. `Struktur Kategori:`
     - Sumber daya dikelompokkan berdasarkan topik yang relevan seperti backend, frontend, AI, data science, Django, React.js, dsb. 
