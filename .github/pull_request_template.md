@@ -2,14 +2,6 @@
 
 [//]: # (Tulis deskripsi singkat tentang perubahan yang Anda lakukan)
 
-## Tujuan
-
-[//]: # (Jelaskan tujuan dari perubahan ini)
-
-## Perubahan yang Dilakukan
-
-[//]: # (Jelaskan secara singkat perubahan yang Anda lakukan)
-
 ## Checklist
 
 - [ ] Saya sudah menambahkan dokumentasi yang sesuai
