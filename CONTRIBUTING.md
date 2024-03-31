@@ -1,7 +1,7 @@
 ## Panduan Kontribusi
 
 Selamat datang dan terima kasih atas minat Anda berkontribusi! Ikuti panduan ini 
-untuk proses kontribusi yang lancar dan efisien pada repositori kami, yang didedikasikan untuk menyusun materi pembelajaran bagi #PapuanCoders.
+untuk proses kontribusi yang lancar dan efisien pada repositori kami, yang didedikasikan untuk mengumpulkan sumber pembelajaran bagi #PapuanCoders.
 
 ## Ide Awal
 
