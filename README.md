@@ -18,6 +18,7 @@ Silahkan membaca [panduan kontribusi](./CONTRIBUTING.md) sebelum menambahkan sum
 - [Awesome Docker](https://github.com/veggiemonk/awesome-docker): Kumpulan sumber daya dan alat terbaik untuk pengembangan, pengujian, dan penyebaran aplikasi dengan Docker.
 - [Awesome Elixir](https://github.com/h4cc/awesome-elixir): Kumpulan proyek, perpustakaan, dan alat terbaik untuk pengembangan dengan bahasa pemrograman Elixir.
 - [Awesome For Beginners](https://github.com/MunGell/awesome-for-beginners): Daftar proyek-proyek open source yang ramah bagi pemula untuk berkontribusi dan belajar.
+- [Awesome Go](https://github.com/avelino/awesome-go): Kumpulan sumber daya dan alat terbaik untuk pengembangan dengan bahasa pemrograman golang
 - [Awesome IoT](https://github.com/HQarroum/awesome-iot): Kumpulan alat, perangkat lunak, dan sumber daya terbaik untuk Internet of Things (IoT).
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript): Kumpulan proyek, perpustakaan, dan alat terbaik untuk pengembangan dengan JavaScript.
 - [Awesome Laravel](https://github.com/titonova/awesome-laravel): Daftar sumber daya, perpustakaan, dan alat terbaik untuk pengembangan dengan framework PHP Laravel.
